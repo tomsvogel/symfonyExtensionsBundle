@@ -1,0 +1,25 @@
+{
+    "name": "arkulpa/symfonyextensions-bundle",
+    "type": "library",
+    "description": "Bundle with simple Symfony Extensions for each Project ;)",
+    "license": "MIT",
+    "keywords": ["ajax", "extended controller"],
+    "authors": [
+        {
+            "name": "tomsvogel",
+            "homepage": "http://www.arkulpa.at"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "symfony/symfony": "2.5.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arkulpa\\Bundle\\SymfonyExtensionsBundle": ""
+        }
+    },
+    "target-dir": "Arkulpa/Bundle/SymfonyExtensionsBundle"
+}
