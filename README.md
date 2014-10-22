@@ -1,2 +1,2 @@
-ArkulpaContactFormBundle
+ArkulpaSymfonyExtensionsBundle
 =====================
