@@ -1,13 +1,11 @@
 <?php
-
-
 namespace Arkulpa\Bundle\SymfonyExtensionsBundle\Service;
 
 use Symfony\Component\Form\Form;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Translation\Translator;
 
-class FormValidator
+class CustomFormValidator
 {
 
     protected $translator;
