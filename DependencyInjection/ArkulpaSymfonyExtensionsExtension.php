@@ -35,3 +35,4 @@ class ArkulpaSymfonyExtensionsExtension extends Extension
         $loader->load('services.xml');
     }
 }
+
